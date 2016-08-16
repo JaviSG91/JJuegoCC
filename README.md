@@ -15,7 +15,7 @@ Las funcionalidades que se recogen son:
 
 - Creación de la página web a través de HTML5 y Javascript
 - MongoDB para la gestión de la base de datos
-- Finalmente para la conexión con la base de datos haré uso de NodeJS
+- Finalmente para la conexión con la base de datos, se hará uso de NodeJS
 
 
 
